@@ -73,3 +73,14 @@ nav > ul > li> a {
     text-align: center;
     margin: 10px 0;
 }
+
+#card button{
+    width: 120px;
+    height: 40px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #d7e9e9;
+    cursor: pointer;
+    transition: 0.3s;
+}
