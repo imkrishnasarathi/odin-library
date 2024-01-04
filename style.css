@@ -62,6 +62,10 @@ main{
     transition: 0.3s;
 }
 
+#add-book:hover{
+    background-color: #005a5a;
+}
+
 .cards{
     width: 100%;
     display: flex;
