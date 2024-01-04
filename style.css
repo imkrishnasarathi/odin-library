@@ -67,3 +67,9 @@ nav > ul > li> a {
 #card:hover{
     box-shadow: 0 0 20px rgba(0,0,0,0.3);
 }
+
+#card p{
+    font-size: 1.6rem;
+    text-align: center;
+    margin: 10px 0;
+}
