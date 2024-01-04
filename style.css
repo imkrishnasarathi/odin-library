@@ -49,6 +49,19 @@ main{
     align-items: center;
 }
 
+#add-book{
+    width: 50%;
+    height: 40px;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #005a5ae8;
+    color: whitesmoke;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
 .cards{
     width: 100%;
     display: flex;
