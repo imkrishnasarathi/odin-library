@@ -41,3 +41,11 @@ nav > ul > li> a {
     font-size: 1.3rem;
     color: rgb(0, 71, 119);
 }
+
+.cards{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
